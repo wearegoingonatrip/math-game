@@ -1,0 +1,17 @@
+body{
+    background-color: red;
+}
+
+#player1{
+    background-color: white;
+    margin-left: 150;
+    margin-right: 150;
+    
+}
+
+#player2{
+    background-color: white;
+    margin-left: 150;
+    margin-right: 150;
+    
+}
